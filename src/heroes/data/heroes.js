@@ -18,24 +18,6 @@ export const heroes = [
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929775/PRACTICAS/HeroesApp/superheroes/dc-superman_hm4cle.jpg'
     },
     {
-        'id': 'dc-flash',
-        'superhero':'Flash', 
-        'publisher':'DC Comics', 
-        'alter_ego':'Jay Garrick',
-        'first_appearance':'Flash Comics #1',
-        'characters':'Jay Garrick, Barry Allen, Wally West, Bart Allen',
-        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929759/PRACTICAS/HeroesApp/superheroes/dc-flash_almqgg.jpg'
-    },
-    {
-        'id': 'dc-green',
-        'superhero':'Green Lantern', 
-        'publisher':'DC Comics', 
-        'alter_ego':'Alan Scott',
-        'first_appearance':'All-American Comics #16',
-        'characters':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz',
-        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929764/PRACTICAS/HeroesApp/superheroes/dc-green_plmu5d.jpg'
-    },
-    {
         'id': 'dc-arrow',
         'superhero':'Green Arrow', 
         'publisher':'DC Comics', 
@@ -54,15 +36,6 @@ export const heroes = [
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929777/PRACTICAS/HeroesApp/superheroes/dc-wonder_z33jny.jpg'
     },
     {
-        'id': 'dc-martian',
-        'superhero':'Martian Manhunter', 
-        'publisher':'DC Comics', 
-        'alter_ego':'J\'onn J\'onzz',
-        'first_appearance':'Detective Comics #225',
-        'characters':'Martian Manhunter',
-        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929767/PRACTICAS/HeroesApp/superheroes/dc-martian_y1zg8t.jpg'
-    },
-    {
         'id': 'dc-robin',
         'superhero':'Robin/Nightwing', 
         'publisher':'DC Comics', 
@@ -72,12 +45,21 @@ export const heroes = [
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929769/PRACTICAS/HeroesApp/superheroes/dc-robin_ggzfz6.jpg'
     },
     {
+        'id': 'dc-aquaman',
+        'superhero':'Aquaman', 
+        'publisher':'DC Comics', 
+        'alter_ego':'Arthur Curry',
+        'first_appearance':'More Fun Action #73',
+        'characters':'Arthur Curry',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653943145/PRACTICAS/HeroesApp/superheroes/dc_aquaman_vintgt.jpg'
+    },
+    {
         'id': 'dc-blue',
         'superhero':'Blue Beetle', 
         'publisher':'DC Comics', 
         'alter_ego':'Dan Garret',
         'first_appearance':'Mystery Men Comics #1',
-        'characters':'Dan Garret, Ted Kord, Jaime Reyes',
+        'characters':'Dan Garret, Ted Kord',
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929754/PRACTICAS/HeroesApp/superheroes/dc-blue_m5tnwz.jpg'
     },
     {
@@ -90,6 +72,42 @@ export const heroes = [
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929751/PRACTICAS/HeroesApp/superheroes/dc-black_l1jkm5.jpg'
     },
     {
+        'id': 'dc-martian',
+        'superhero':'Martian Manhunter', 
+        'publisher':'DC Comics', 
+        'alter_ego':'J\'onn J\'onzz',
+        'first_appearance':'Detective Comics #225',
+        'characters':'Martian Manhunter',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929767/PRACTICAS/HeroesApp/superheroes/dc-martian_y1zg8t.jpg'
+    },
+    {
+        'id': 'dc-flash',
+        'superhero':'Flash', 
+        'publisher':'DC Comics', 
+        'alter_ego':'Jay Garrick',
+        'first_appearance':'Flash Comics #1',
+        'characters':'Jay Garrick, Barry Allen, Wally West, Bart Allen',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929759/PRACTICAS/HeroesApp/superheroes/dc-flash_almqgg.jpg'
+    },
+    {
+        'id': 'dc-green',
+        'superhero':'Green Lantern', 
+        'publisher':'DC Comics', 
+        'alter_ego':'Alan Scott',
+        'first_appearance':'All-American Comics #16',
+        'characters':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929764/PRACTICAS/HeroesApp/superheroes/dc-green_plmu5d.jpg'
+    },
+    {
+        'id': 'dc-hawkgirl',
+        'superhero':'Hawkgirl', 
+        'publisher':'DC Comics', 
+        'alter_ego':'Kendra Saunders',
+        'first_appearance':'Flash Comics #1',
+        'characters':'Shiera Sanders Hall, Shayera Hol, Kendra Saunders',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653944126/PRACTICAS/HeroesApp/superheroes/dc_Hawkgirl_j9zg2m.webp'
+    },
+    {
         'id': 'marvel-spider',
         'superhero':'Spider Man', 
         'publisher':'Marvel Comics', 
@@ -97,6 +115,15 @@ export const heroes = [
         'first_appearance':'Amazing Fantasy #15',
         'characters':'Peter Parker',
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929802/PRACTICAS/HeroesApp/superheroes/marvel-spider_wq8eyp.jpg'
+    },
+    {
+        'id': 'marvel-blackwidow',
+        'superhero':'Black Widow', 
+        'publisher':'Marvel Comics', 
+        'alter_ego':'Natasha Romanoff',
+        'first_appearance':'Tales of Suspense #52',
+        'characters':'Natasha Romanoff',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653941387/PRACTICAS/HeroesApp/superheroes/marvel_BlackWidow_iouomd.png'
     },
     {
         'id': 'marvel-captain',
@@ -115,6 +142,15 @@ export const heroes = [
         'first_appearance':'Tales of Suspense #39',
         'characters':'Tony Stark',
         'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653929795/PRACTICAS/HeroesApp/superheroes/marvel-iron_pzlz58.jpg'
+    },
+    {
+        'id': 'marvel-captainmarvel',
+        'superhero':'Captain Marvel', 
+        'publisher':'Marvel Comics', 
+        'alter_ego':'Carol Danvers',
+        'first_appearance':'Marvel Super-Heroes #13',
+        'characters':'Carol Danvers',
+        'img': 'https://res.cloudinary.com/silviajcn/image/upload/v1653942152/PRACTICAS/HeroesApp/superheroes/marvel_captain_marvel_tks9sn.png'
     },
     {
         'id': 'marvel-thor',

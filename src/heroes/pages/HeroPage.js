@@ -51,7 +51,7 @@ const HeroPage = () => {
                 className='btn mt-3 mb-2'
                 onClick={onNavigateBack}
             >
-                Return to { hero.publisher }
+                Return
             </button>
             
         </div>
