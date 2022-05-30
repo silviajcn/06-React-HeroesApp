@@ -1,0 +1,45 @@
+.linksMenu {
+    text-decoration: none;
+    border: 1px solid #212529;
+    border-radius: 2px;
+    margin-right: 20px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linksMenu:hover {
+    cursor: pointer;
+    border: 1px solid #fff;
+    width: 80px;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid #212529;
+    border-radius: 2px;
+    padding: 8px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active:hover {
+    color: #FFFFFF;
+    cursor: pointer;
+    border: 1px solid #fff;
+}
+
+.img-logo {
+    width: 35px;
+    margin-left: 50px;
+}
+
+.logout {
+    margin-right: 50px;
+}
