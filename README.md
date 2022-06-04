@@ -4,7 +4,7 @@
 
 ## 🖱️ Visit here:  https://heroes-marvel-dc-app.vercel.app/
 
-## 📁 Proyecto
+## 📁 Proyecto 1era parte:
 
 * SPA ( Single Page Application ) a profundidad
 * Diferentes temas en la misma aplicación aplicados a diferentes rutas
@@ -13,6 +13,15 @@
 * Leer argumentos por URL
 * QueryParams
 * Aplicar filtros utilizando QueryStrings
+
+## 📁 Proyecto 2da parte:
+
+* Rutas públicas
+* Rutas privadas
+* Login y logout - Sin backend aún
+* Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
+* Context
+* Reducer
 
 ## 😍 Heroes App
 
