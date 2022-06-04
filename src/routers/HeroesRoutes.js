@@ -12,7 +12,7 @@ const HeroesRoutes = () => {
     return (
         <>
             <NavBar />
-            
+
             <div className='container mt-3 mb-5'>
                 <Routes>
 
@@ -30,6 +30,7 @@ const HeroesRoutes = () => {
          
                 </Routes>
             </div>
+
         </>
     )
 };

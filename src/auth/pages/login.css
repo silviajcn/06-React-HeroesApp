@@ -1,0 +1,18 @@
+.login-container {
+    background: url("https://res.cloudinary.com/silviajcn/image/upload/v1654306264/PRACTICAS/HeroesApp/Universo_Marvel_mylsez.png") no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.capa {
+    background-color: rgba(255, 255, 255, 0.671);
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
